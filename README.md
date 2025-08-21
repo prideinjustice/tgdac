@@ -1,6 +1,4 @@
 ---
-import Layout from '../layouts/Layout.astro';
----
 
 <Layout>
   <h1>🌈 T&GD Criminal Justice Council</h1>
